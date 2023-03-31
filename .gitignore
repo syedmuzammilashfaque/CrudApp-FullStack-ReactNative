@@ -1,0 +1,3 @@
+server/node_modules
+crudapp/node_modules
+server/config/config.env
